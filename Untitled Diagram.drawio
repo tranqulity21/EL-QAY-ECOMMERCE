@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T15:14:03.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="EBWzgx2SyzdnTpGfOHAS" type="github"><diagram name="Page-1" id="aA9uuy2Wcgg827x1cttv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-03T07:14:07.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LqQfbHzi1XPYe1zRujPH" version="20.8.23" type="github">
+  <diagram name="Page-1" id="aA9uuy2Wcgg827x1cttv">
+    <mxGraphModel dx="1520" dy="134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="19Qt9ZzVDN1tRs_aigPa-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-159" y="405" width="492" height="492" as="geometry" />
+        </mxCell>
+        <mxCell id="19Qt9ZzVDN1tRs_aigPa-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="536" width="364" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="19Qt9ZzVDN1tRs_aigPa-6" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-92" y="669" width="364" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="19Qt9ZzVDN1tRs_aigPa-9" value="" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-98.25" y="800" width="357" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19Qt9ZzVDN1tRs_aigPa-10" value="web server(html,css)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30.25" y="575" width="123.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19Qt9ZzVDN1tRs_aigPa-11" value="application tier(node js)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="37" y="707" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19Qt9ZzVDN1tRs_aigPa-12" value="database" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="825" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19Qt9ZzVDN1tRs_aigPa-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="19Qt9ZzVDN1tRs_aigPa-6" target="19Qt9ZzVDN1tRs_aigPa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19Qt9ZzVDN1tRs_aigPa-15" value="ELQAY ECOMMERCE SINGLE SERVER ARCHITECTURE" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-24.75" y="420" width="210" height="44" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
