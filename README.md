@@ -1,2 +1,2 @@
 # EL-QAY-ECOMMERCE
-El-Qay ecommerce that will deployed on aws services
+This is an ecommerce website that i am using to practice deloyment of dynamic website on the aws
